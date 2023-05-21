@@ -4,6 +4,7 @@ import AvatarComponent from './Components/AvatarComponent';
 import CounterComponent from './Components/CounterComponent';
 import PeopleList from './Components/PeopleList';
 import ProfileComponent from './Components/ProfileComponent';
+import Byumvuhore from './Components/Byumvuhore';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <people/>
       <PeopleList />
       <ProfileComponent />
+      <Byumvuhore/>
       
       
     </div>
